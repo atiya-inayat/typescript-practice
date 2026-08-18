@@ -12,7 +12,7 @@
 //   return `${name} is ${age} years old and is ${isAdmin} an admin`;
 // }
 
-// const user = createUser("Hassaan", 21, false);
+// const user = createUser("Ain", 21, false);
 
 //*************************************88 */
 // const product = {
@@ -100,8 +100,8 @@ const users : User[] = [
     },
     {
         id: '2',
-        name: 'Hassaan',
-        age: 22,
+        name: 'Ain',
+        age: 21,
     },
      {
         id: '3',
